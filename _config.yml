@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title 
@@ -128,3 +129,14 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+=======
+url: "http://userobsessed.net"
+pygments: true
+exclude: [bin, Gemfile, Gemfile.lock, Makefile]
+markdown: kramdown
+permalink: pretty
+paginate: 10
+
+kramdown:
+  entity_output: symbolic
+>>>>>>> f6b2fcf09254cb8e0d46f3930318cd379581b1cb
