@@ -1,4 +1,4 @@
-url: "http://userobsessed.net"
+url : ""
 pygments: true
 exclude: [bin, Gemfile, Gemfile.lock, Makefile]
 markdown: kramdown

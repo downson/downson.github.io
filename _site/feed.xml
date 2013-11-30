@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>User Obsessed</title>
+  <link href="/feed.xml" rel="self" />
+  <link href="/feed.xml" />
+  <updated>2013-11-30T16:01:03+08:00</updated>
+  <id></id>
+  <author>
+    <name>Joe Fiorini</name>
+    <email>joe@userobsessed.net</email>
+  </author>
+  
+  <entry>
+    <title>Toyota's Journey from Waterfall to Lean Software Development</title>
+    <link href="/process/2010/03/17/toyotas-journey-from-waterfall-to-lean/" />
+    <updated>2010-03-17T00:00:00+08:00</updated>
+    <id>/process/2010/03/17/toyotas-journey-from-waterfall-to-lean</id>
+    <content type="html">
+      &lt;p&gt;Toyota is known for their manufacturing process. People have &lt;a href=&quot;http://amzn.to/fyFezV&quot; title=&quot;Toyota Production System: Beyond Large Scale&quot;&gt;studied&lt;/a&gt; and &lt;a href=&quot;http://amzn.to/hdfRAv&quot; title=&quot;Toyota Kata&quot;&gt;emulated&lt;/a&gt; it for years. Recently &lt;a href=&quot;http://www.poppendieck.com/&quot; title=&quot;Mary and Tom Poppendieck Lean Software Development&quot;&gt;Mary and Tom Poppendieck&lt;/a&gt; brought it to &lt;a href=&quot;http://en.wikipedia.org/wiki/Lean_software_development&quot; title=&quot;Lean Software Development&quot;&gt;software development&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I assumed Toyota used their renowned manufacturing process to write the software for their vehicles. Henrik&amp;rsquo;s article proved me wrong.&lt;/p&gt;
+
+&lt;p&gt;My favorite quote from the article:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;My conclusion after the trip was &amp;ldquo;well, now I know that there&amp;rsquo;s at least one company in the world that can succeed with the waterfall model&amp;rdquo; and I decided to stop bashing the waterfall model as hard as I usually do. Now, however, with all the problems Toyota are having, I&amp;rsquo;m starting to reconsider.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+      
+        &lt;p&gt;&lt;a href='/process/2010/03/17/toyotas-journey-from-waterfall-to-lean/'&gt; ☺ Source&lt;/a&gt;&lt;/p&gt;
+      
+    </content>
+  </entry>
+  
+</feed>
+

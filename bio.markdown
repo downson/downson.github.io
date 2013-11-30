@@ -5,7 +5,9 @@ layout: default
 
 # About the Author
 
-My name is Joe Fiorini. I am a developer, husband and father from Cleveland, Ohio. I work for [LeanDog Software][LeanDog] where I build software for our customers using [Ruby on Rails][RoR]. I have contributed to a number of open source projects including [RSpec][] and [GitX][], and also have my own [Vim][] plugin manager called [Vimmer][]. 
+Hello! this is my first personal website , I graduate from BUPT and now work as
+an engineer in a company ,My dream is to be a great man making people as well as
+me having a better life! I will be the best one int the future ! believe me! ju st fighting!
 
 [LeanDog]:  http://www.leandog.com
 [RoR]:      http://www.rubyonrails.org
